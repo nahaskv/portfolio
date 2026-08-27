@@ -20,6 +20,6 @@ Final GitHub Pages-ready portfolio using the supplied portfolio ZIP as the base 
 - Autonomous Vehicle with V2X Communication
 
 ## GitHub Pages
-Create a repository named `abdulnahaskv.github.io`, upload the site files, then go to Settings → Pages → Deploy from branch → main → / (root).
+Create a repository named `nahaskv.github.io`, upload the site files, then go to Settings → Pages → Deploy from branch → main → / (root).
 
-The ATS resume is included at `assets/resume.docx`.
+The ATS resume is included at `assets/resume.pdf`.
